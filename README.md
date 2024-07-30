@@ -9,7 +9,7 @@ This immersive bootcamp also includes **two modules dedicated to learning Bash b
 as well as **collaborative group projects** like Rushes and BSQ (Biggest Square) to enhance our **C programming skills and teamwork experience**.
 
 ## Features 📋
-1. **Comprehensive C Programming Skills:** Build a robust foundation in C by mastering essential programming constructs such as pointers, structures, functions and data types.
+1. **Comprehensive C Programming Skills:** Build a robust foundation in C by mastering essential programming concepts such as pointers, structures, functions and data types.
 2. **Advanced Memory Management:** Learn to efficiently manage memory through dynamic allocation, pointers and address manipulation
 3. **Shell Scripting:** Master the basics of Bash scripting with dedicated modules on shell programming
 4. **Collaborative Projects:** Engage in group projects to apply our C programming skills in real-world scenarios and develop teamwork capabilities
@@ -17,4 +17,4 @@ as well as **collaborative group projects** like Rushes and BSQ (Biggest Square)
 ## Objectives 🎯
 1. Establish a strong grasp of C programming fundamentals
 2. Develop skills in advanced C concepts and practices
-3. Create efficient, well-structured, and robust C applications
+3. Create efficient, well-structured, and robust C programs
